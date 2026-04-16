@@ -142,4 +142,3 @@ Conversational Retrieval QA Chain
 
 ## Author
 **Harshita**  
-MBA HR | AI & Analytics Enthusiast  
