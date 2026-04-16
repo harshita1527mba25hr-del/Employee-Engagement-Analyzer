@@ -90,14 +90,9 @@ Conversational Retrieval QA Chain
 
 ### 🔹 Flowise Workflow
 <img width="1845" height="874" alt="Screenshot 2026-04-16 100620" src="https://github.com/user-attachments/assets/7186076a-8b41-4f17-8051-56c1708dad4d" />
+<img width="1574" height="862" alt="Screenshot 2026-04-16 100710" src="https://github.com/user-attachments/assets/91a4417e-54c9-447f-b814-950cc39b14f4" />
 
 ```
-
-###  Chat Interface Output
-<img width="1574" height="862" alt="Screenshot 2026-04-16 100710" src="https://github.com/user-attachments/assets/ccc14dc7-737a-494f-a321-9a92aa022d3e" />
-
-
----
 
 ##  Project Structure
 
